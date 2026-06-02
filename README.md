@@ -1,5 +1,9 @@
 # Data Analytics Portfolio
 
+### Prepared by
+
+[Julian Andres Belmonte Ortiz](https://www.linkedin.com/in/julianbel/)
+
 ## Overview
 
 This repository contains a collection of hands-on Data Analytics projects designed to develop and demonstrate core data analysis skills. The projects follow a complete analytics workflow, starting from raw data preparation and progressing through exploratory analysis, SQL-based querying, and data visualization.
@@ -10,13 +14,13 @@ The primary objective of these projects is to transform raw data into meaningful
 
 ## Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* SQLite
-* Matplotlib
-* Seaborn
-* Google Colab
+- Python
+- Pandas
+- NumPy
+- SQLite
+- Matplotlib
+- Seaborn
+- Google Colab
 
 ---
 
@@ -28,19 +32,19 @@ Prepare raw data for analysis by identifying and handling missing values, duplic
 
 ### Key Tasks
 
-* Load and inspect the dataset
-* Identify missing values
-* Remove duplicate records
-* Standardize data formats
-* Validate data quality
-* Prepare a clean dataset for analysis
+- Load and inspect the dataset
+- Identify missing values
+- Remove duplicate records
+- Standardize data formats
+- Validate data quality
+- Prepare a clean dataset for analysis
 
 ### Skills Demonstrated
 
-* Data Cleaning
-* Data Preparation
-* Data Quality Assessment
-* Data Transformation
+- Data Cleaning
+- Data Preparation
+- Data Quality Assessment
+- Data Transformation
 
 ---
 
@@ -52,18 +56,18 @@ Analyze the dataset to discover patterns, trends, distributions, and potential a
 
 ### Key Tasks
 
-* Calculate summary statistics
-* Analyze distributions
-* Identify trends and outliers
-* Explore relationships between variables
-* Generate analytical observations
+- Calculate summary statistics
+- Analyze distributions
+- Identify trends and outliers
+- Explore relationships between variables
+- Generate analytical observations
 
 ### Skills Demonstrated
 
-* Exploratory Data Analysis
-* Descriptive Statistics
-* Pattern Recognition
-* Analytical Thinking
+- Exploratory Data Analysis
+- Descriptive Statistics
+- Pattern Recognition
+- Analytical Thinking
 
 ---
 
@@ -75,19 +79,19 @@ Use SQL queries to extract meaningful insights from the dataset and answer busin
 
 ### Key Tasks
 
-* Write SELECT statements
-* Apply WHERE filters
-* Sort results using ORDER BY
-* Group data using GROUP BY
-* Perform aggregations using COUNT(), SUM(), and AVG()
+- Write SELECT statements
+- Apply WHERE filters
+- Sort results using ORDER BY
+- Group data using GROUP BY
+- Perform aggregations using COUNT(), SUM(), and AVG()
 
 ### Skills Demonstrated
 
-* SQL Fundamentals
-* Data Querying
-* Data Filtering
-* Data Aggregation
-* Business Analysis
+- SQL Fundamentals
+- Data Querying
+- Data Filtering
+- Data Aggregation
+- Business Analysis
 
 ---
 
@@ -99,17 +103,17 @@ Create effective visualizations that communicate insights clearly and support da
 
 ### Key Tasks
 
-* Create bar charts, line charts, pie charts, and histograms
-* Select appropriate visualizations for different types of data
-* Highlight key findings
-* Build a narrative through visual storytelling
+- Create bar charts, line charts, pie charts, and histograms
+- Select appropriate visualizations for different types of data
+- Highlight key findings
+- Build a narrative through visual storytelling
 
 ### Skills Demonstrated
 
-* Data Visualization
-* Storytelling with Data
-* Business Communication
-* Insight Presentation
+- Data Visualization
+- Storytelling with Data
+- Business Communication
+- Insight Presentation
 
 ---
 
@@ -117,12 +121,12 @@ Create effective visualizations that communicate insights clearly and support da
 
 Through these projects, the following competencies were developed:
 
-* Data cleaning and preprocessing
-* Exploratory data analysis
-* SQL querying and aggregation
-* Data visualization and storytelling
-* Business insight generation
-* Analytical problem-solving
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- SQL querying and aggregation
+- Data visualization and storytelling
+- Business insight generation
+- Analytical problem-solving
 
 ---
 
