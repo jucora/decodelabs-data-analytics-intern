@@ -4,6 +4,22 @@
 
 [Julian Andres Belmonte Ortiz](https://www.linkedin.com/in/julianbel/)
 
+<h2 align="center">🎥 Project Demo</h2>
+
+<p align="center">
+  <a href="https://youtu.be/6ysxOrdDzrE" target="_blank">
+    <img
+      src="https://images.icon-icons.com/588/PNG/512/video_youtube_clip_play_replay_icon-icons.com_55339.png"
+      alt="Watch Demo"
+      width="100"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Click the icon above to watch the full project demonstration.
+</p>
+
 ## Overview
 
 This repository contains a collection of hands-on Data Analytics projects designed to develop and demonstrate core data analysis skills. The projects follow a complete analytics workflow, starting from raw data preparation and progressing through exploratory analysis, SQL-based querying, and data visualization.
@@ -132,4 +148,4 @@ Through these projects, the following competencies were developed:
 
 ## Conclusion
 
-This portfolio demonstrates an end-to-end data analytics workflow, showcasing the ability to transform raw data into actionable insights through data preparation, analysis, SQL querying, and visualization techniques. Each project contributes to building a strong foundation in practical data analytics and business intelligence.
+This portfolio demonstrates an end to end data analytics workflow, showcasing the ability to transform raw data into actionable insights through data preparation, analysis, SQL querying, and visualization techniques. Each project contributes to building a strong foundation in practical data analytics and business intelligence.
